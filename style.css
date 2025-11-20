@@ -1,0 +1,158 @@
+body {
+    background-color: #DCDCDC;
+}
+
+.header {
+    background-color: #7fef7f;
+    height: 30px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.content1 {
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+  
+}
+
+.content1>h2 {
+    color: #CD5C5C;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+.content2 {
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: black;
+    font-size: 15px;
+    padding: 10px; 
+}
+
+.content2>h2 {
+    color: #CD5C5C;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+.content2 h3 {
+    color: #CD5C5C;
+    font-size: 15px;
+    font-weight: 10px;
+}
+
+.tbl2 {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th {
+    background-color: olive;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 2px solid rgb(92, 92, 3);
+    height: 25px;
+}
+
+.tbl2 td {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    padding-left: 5px;
+    border: 2px solid rgb(92, 92, 3);
+    height: 25px;
+}
+
+.content3 {
+    background-color: rgb(176, 216, 204);
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #CD5C5C;
+    font-size: 15px;
+    line-height: 6px;
+    padding: 10px; 
+}
+
+.photo {
+    color: black;
+    font-size: 12px;
+
+}
+
+img {
+    width: 300px;
+}
+
+.photo h3 {
+   color: #CD5C5C;
+    font-size: 14px; 
+    font-weight: 10px;
+}
+
+.tbl3 {
+   color: black; 
+   line-height: normal;
+   font-size: 14px;
+
+}
+
+.content4 {
+    background-color: rgb(187, 187, 187);
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #CD5C5C;
+    font-size: 15px;
+    line-height: normal;
+    padding: 10px; 
+}
+
+.tbl4 {
+    color: black; 
+    font-size: 13px;
+    font-weight: bolder; 
+    line-height: 15px; 
+}
+
+.submit {
+    background-color: darkorange;
+    color: black;
+    border: 2px solid #a97f02;
+    border-radius: 3px;
+}
+
+.footer {
+    background-color: rgb(171, 194, 237);
+    margin-left: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #CD5C5C;
+    font-size: 15px;
+    line-height: normal;
+    padding: 10px; 
+}
+
+.tbl5 {
+    color: black; 
+    font-size: 12px;
+    margin-left: 0%;
+}
+
+.footer2 {
+    background-color: #7fef7f;
+    text-align: center;
+    color: black;
+    font-size: 10px;
+    height: 50px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
